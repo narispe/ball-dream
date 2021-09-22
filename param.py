@@ -1,0 +1,16 @@
+FPS = 60
+
+RMIN = 10
+RMAX = 40
+
+VEL = 200/FPS
+
+COEF = 1
+
+XMAX = 1280
+YMAX = 720
+
+CX = int(XMAX/2)
+CY = int(YMAX/2)
+
+PHYSICS = True  # ERROR = -12%
